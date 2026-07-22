@@ -12,3 +12,4 @@ my project, MacBook -> USB-C connector/interface -> ESP32 Microcontroller and ti
 (vital for SPI Communication), which will be mounted on another breadboard. Then, I planned on how I would wire my components since the 
 original tutorial doesn't tell me how to wire my components. Then, I had nothing to plan much since the connection to the Spotify API and the
 software was provided in the original tutorial.
+<img width="1470" height="956" alt="Screenshot 2026-07-22 at 11 27 34 AM" src="https://github.com/user-attachments/assets/6fa3a88d-2dbb-40a9-aa84-183c8b7f947e" />
